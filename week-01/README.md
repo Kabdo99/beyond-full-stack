@@ -50,7 +50,7 @@
 - Work on the Weather Web Application project
 - Plan learning goals for next week
 
-## Weekly Goals
+## This Week's Goals
 
 1. Understand core JavaScript concepts including variables, functions, and basic data structures
 2. Gain familiarity with ES6+ features such as arrow functions, let/const, and template literals
