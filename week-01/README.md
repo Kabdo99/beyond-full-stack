@@ -9,47 +9,47 @@
 
 ## Daily Tasks
 
-# Monday
+### Monday
 
-Read Chapters 1-2 of "Eloquent JavaScript"
-Complete 2 hours of freeCodeCamp's Basic JavaScript section
-Solve 2 easy problems on LeetCode using JavaScript
+- Read Chapters 1-2 of "Eloquent JavaScript"
+- Complete 2 hours of freeCodeCamp's Basic JavaScript section
+- Solve 2 easy problems on LeetCode using JavaScript
 
-# Tuesday
+### Tuesday
 
-Read Chapter 3 of "Eloquent JavaScript" (Functions)
-Complete 2 hours of freeCodeCamp's ES6 section
-Implement a simple calculator function using arrow functions
+- Read Chapter 3 of "Eloquent JavaScript" (Functions)
+- Complete 2 hours of freeCodeCamp's ES6 section
+- Implement a simple calculator function using arrow functions
 
-# Wednesday
+### Wednesday
 
-Read Chapter 4 of "Eloquent JavaScript" (Data Structures)
-Complete 2 hours of freeCodeCamp's Basic Data Structures section
-Create a program that manipulates an array of objects (e.g., a todo list)
+- Read Chapter 4 of "Eloquent JavaScript" (Data Structures)
+- Complete 2 hours of freeCodeCamp's Basic Data Structures section
+- Create a program that manipulates an array of objects (e.g., a todo list)
 
-# Thursday
+### Thursday
 
-Watch 2 hours of "JavaScript: Understanding the Weird Parts"
-Read MDN docs on Promises and async/await
-Convert a callback-based function to use Promises, then to use async/await
+- Watch 2 hours of "JavaScript: Understanding the Weird Parts"
+- Read MDN docs on Promises and async/await
+- Convert a callback-based function to use Promises, then to use async/await
 
-# Friday
+### Friday
 
-Read Chapter 5 of "Eloquent JavaScript" (Higher-Order Functions)
-Complete 2 hours of freeCodeCamp's Functional Programming section
-Implement a function that uses map, filter, and reduce on an array of numbers
+- Read Chapter 5 of "Eloquent JavaScript" (Higher-Order Functions)
+- Complete 2 hours of freeCodeCamp's Functional Programming section
+- Implement a function that uses map, filter, and reduce on an array of numbers
 
-# Saturday
+### Saturday
 
-Read Chapter 6 of "Eloquent JavaScript" (Objects)
-Complete the freeCodeCamp's Object Oriented Programming section
-Design a simple class hierarchy for a library management system
+- Read Chapter 6 of "Eloquent JavaScript" (Objects)
+- Complete the freeCodeCamp's Object Oriented Programming section
+- Design a simple class hierarchy for a library management system
 
-# Sunday
+### Sunday
 
-Review and summarize the week's learnings
-Work on the Weather Web Application project
-Plan learning goals for next week
+- Review and summarize the week's learnings
+- Work on the Weather Web Application project
+- Plan learning goals for next week
 
 ## Weekly Goals
 
