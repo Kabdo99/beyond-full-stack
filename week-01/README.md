@@ -2,10 +2,9 @@
 
 ## Resources
 
-1. Book: "Eloquent JavaScript" by Marijn Haverbeke (free online)
-2. Online Course: freeCodeCamp's "JavaScript Algorithms and Data Structures" certification
-3. Documentation: MDN Web Docs for JavaScript
-4. Video Series: "JavaScript: Understanding the Weird Parts" on Udemy
+1. [Book: "Eloquent JavaScript" by Marijn Haverbeke] (https://eloquentjavascript.net) 
+2. [Online Course: freeCodeCamp's "JavaScript Algorithms and Data Structures" certification] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+3. [Documentation: MDN Web Docs for JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Daily Tasks
 
@@ -51,7 +50,7 @@
 - Work on the Weather Web Application project
 - Plan learning goals for next week
 
-## Weekly Goals
+## This Week's Goals
 
 1. Understand core JavaScript concepts including variables, functions, and basic data structures
 2. Gain familiarity with ES6+ features such as arrow functions, let/const, and template literals
