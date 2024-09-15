@@ -1,1 +1,0 @@
-1. Online Course: freeCodeCamp's "JavaScript Algorithms and Data Structures" certification (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
